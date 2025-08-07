@@ -1,0 +1,24 @@
+{
+  "name": "react-native-device-info",
+  "version": "14.0.4",
+  "description": "A dropin for react-native-device-info using expo modules.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "peerDependencies": {
+    "react-native": "*",
+    "expo-application": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JH7/react-native-device-info.git"
+  },
+  "author": "JH7",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JH7/react-native-device-info/issues"
+  },
+  "homepage": "https://github.com/JH7/react-native-device-info#readme"
+}
